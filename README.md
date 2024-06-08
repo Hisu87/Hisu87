@@ -56,24 +56,19 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### 😊:
-<!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<!--
 **hisu87/Hisu87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 # Hi there 👋
-## I'm hisu a Fresher Software Developer
-### 🌱 I’m currently studying at FPT Polytechnic
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## I'm Hieu a Fresher Software Developer
+### 🌱 I’m currently studying at FPT Polytechnic College
+- 🔭 I’m currently working on notthing 
+- 🌱 I’m currently learning Java and React 
+- 👯 I’m looking to collaborate on something really great
+- 🤔 I'm seeking assistance with securing an internship in Ho Chi Minh City.
+- 💬 Feel free to ask me about anything you might want to know.
+- 📫 How to reach me: hisu0807@outlook.com
+
 -->
